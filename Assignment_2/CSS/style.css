@@ -11,17 +11,16 @@ body {
 
 header {
   height: auto;
-  background-color: #ffffff;
   text-align: center;
   padding: 30px;
 }
 
-.heading1 {
+.head-heading {
   padding: 5px;
   color: #a18283;
 }
 
-.para1 {
+.head-para {
   padding: 10px;
 }
 
@@ -46,7 +45,11 @@ main {
   margin-right: 30px;
 }
 
-.heading2 {
+.content-session {
+  margin-right: 30px;
+}
+
+.content-heading {
   font-weight: lighter;
   margin-bottom: 30px;
 }
@@ -56,22 +59,17 @@ main {
   font-weight: bold;
 }
 
-.para2 {
+.content-para {
   font-size: 15px;
   margin-bottom: 30px;
 }
 
-.content-session {
-  margin-right: 30px;
-}
-
-a {
+.content-more {
   color: black;
 }
 
 footer {
   height: auto;
-  background-color: #ffffff;
   text-align: center;
   padding: 30px;
 }
